@@ -1,6 +1,6 @@
 {
   "name": "@mfsoftworks/nestjs-ipfs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A module for utilizing IPFS p2p filesystem with NestJS",
   "author": "MF Softworks <arranjamesfletcher2012@gmail.com>",
   "license": "MIT",
