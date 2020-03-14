@@ -6,8 +6,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="License" />
-  <img src="https://badge.fury.io/js/mfsoftworks%2Fnestjs-ipfs.svg" alt="npm version" height="18">
-  <img src="https://img.shields.io/badge/built%20with-NestJs-red.svg" alt="Built with NestJS">
+  <a href="https://github.com/mfsoftworks/nestjs-ipfs"><img src="https://badge.fury.io/js/@mfsoftworks%2Fnestjs-ipfs.svg" alt="npm version" height="18"></a>
+  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/built%20with-NestJs-red.svg" alt="Built with NestJS"></a>
   <a href="https://paypal.me/nygmarose"><img src="https://img.shields.io/badge/Donate-PayPal-dc3d53.svg"/></a>
 </div>
 
