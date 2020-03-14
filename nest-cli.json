@@ -1,0 +1,18 @@
+{
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "projects": {
+    "nestjs-ipfs": {
+      "type": "library",
+      "root": "libs/nestjs-ipfs",
+      "entryFile": "index",
+      "sourceRoot": "libs/nestjs-ipfs/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/nestjs-ipfs/tsconfig.lib.json"
+      }
+    }
+  },
+  "compilerOptions": {
+    "webpack": true
+  }
+}
