@@ -1,6 +1,6 @@
 {
   "name": "@mf/nestjs-ipfs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A module for utilizing IPFS p2p filesystem with NestJS",
   "author": "MF Softworks <arranjamesfletcher2012@gmail.com>",
   "license": "MIT",
@@ -20,7 +20,7 @@
     "test:e2e": "jest --config ./tests/jest-e2e.json --runInBand",
     "test:e2e:dev": "jest --config ./tests/jest-e2e.json --runInBand --watch",
     "prerelease": "npm run build",
-    "release": "source .env && release-it"
+    "release": "env-cmd release-it"
   },
   "keywords": [
     "nestjs",
@@ -51,6 +51,7 @@
     "@types/supertest": "^2.0.8",
     "@typescript-eslint/eslint-plugin": "^2.12.0",
     "@typescript-eslint/parser": "^2.12.0",
+    "env-cmd": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-import": "^2.19.1",
