@@ -18,7 +18,7 @@
 ## Installation
 
 ```bash
-npm i @mf/nestjs-ipfs
+npm i @mfsoftworks/nestjs-ipfs
 ```
 
 ## Quick Start
@@ -26,7 +26,7 @@ npm i @mf/nestjs-ipfs
 Import the IPFS module
 
 ```typescript
-import { IpfsModule } from '@mf/nestjs-ipfs';
+import { IpfsModule } from '@mfsoftworks/nestjs-ipfs';
 ```
 
 IPFS module supports registering using defaults, or a static object
@@ -82,4 +82,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## License
 
-@mf/nestjs-ipfs is [MIT licensed](LICENSE).
+@mfsoftworks/nestjs-ipfs is [MIT licensed](LICENSE).
