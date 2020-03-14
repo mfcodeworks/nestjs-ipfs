@@ -1,4 +1,3 @@
-import * as IPFS from 'ipfs';
 import { Type } from '@nestjs/common';
 import { ModuleMetadata } from '@nestjs/common/interfaces';
 

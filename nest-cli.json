@@ -4,12 +4,9 @@
   "projects": {
     "nestjs-ipfs": {
       "type": "library",
-      "root": "libs/nestjs-ipfs",
+      "root": "lib",
       "entryFile": "index",
-      "sourceRoot": "libs/nestjs-ipfs/src",
-      "compilerOptions": {
-        "tsConfigPath": "libs/nestjs-ipfs/tsconfig.lib.json"
-      }
+      "sourceRoot": "lib"
     }
   },
   "compilerOptions": {

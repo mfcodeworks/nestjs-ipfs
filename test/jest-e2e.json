@@ -11,7 +11,7 @@
     "^.+\\.(t|j)s$": "ts-jest"
   },
   "moduleNameMapper": {
-    "@mf/ipfs/(.*)": "<rootDir>/../lib/$1",
-    "@mf/ipfs": "<rootDir>/../lib"
+    "@mfsoftworks/nestjs-ipfs/(.*)": "<rootDir>/../lib/$1",
+    "@mfsoftworks/nestjs-ipfs": "<rootDir>/../lib"
   }
 }
